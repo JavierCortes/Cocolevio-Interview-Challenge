@@ -1,0 +1,21 @@
+At Cocolevio we belive that code talks. People can talk about ideas all they like but ideas are cheap and getting them done is the hard part.
+
+For that reason we ask our engineering candidates to perform a small programming challenge which we will evalulate during the interview. There is no right answer to this challenge but what we are looking to understand is your thought process as you go about soliving the problem using code.
+
+To this end we won't be using this as a means to asssess your knowlege of frameworks or platforms but we will be assessing your ability to solve problems and your ability to create a solution to solving that problem which is clear to understand, crafted with love and is easy to maintain.
+
+The following are core requirements:
+  1. You should complete this to your best of your ability before the interview, you will be given no less than 3 days.
+  2. You should publish all of your work on a public github repository and share the url with you.
+  3. You should check into the git repository frequently as you go about solving this problem. We are loooking at how you form your solution and the commit history is key to us understanding that.
+  4. If for any reason we suspect this is not your work, you will be instantly disqualified from the process without explanation. For this reason please cite referneces you used, and as mentioned before, your commit history and ability to talk to it is key.
+   
+Please have fun doing this and use it as an opportunity to show us what you can do.
+
+Now, the challenge:
+
+In our Materials Marketplace we have many different companies all looking for the same material. However, each company is looking for a specific quantity of the material at a price they set themselves. A company approaches our team with a large amount of that material, but not enough to complete every request for it. Given the total amount of the material they have, the company asks us to find out what companies they should sell to in order to maximize their profits. This scenario happens frequently so we need to be able to compute the answer relatively quickly and with minimal processing power.
+
+Please use the following as sample data:
+
+https://s3.amazonaws.com/cocolevio-public/InterviewQuestionExample.PNG
